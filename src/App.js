@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 import dateBuilder from './components/date';
 const api = {
-	key: 'b457b341e27f39b5de9d1518b4106b10',
-	base: 'https://api.openweathermap.org/data/2.5/'
+	key: '',
+	base: ''
 };
 
 function App() {
